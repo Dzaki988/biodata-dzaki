@@ -1,0 +1,21 @@
+h1	{
+	color: #8B7355;
+}
+
+body {
+	background-image: url("background.webp");
+	background-size: cover;
+}
+
+img {
+	height: 250px;
+	width: 200px;
+}
+
+h2 {
+	color: blue;
+}
+
+#pribadi {
+	color: yellow;
+}
